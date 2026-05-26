@@ -1,4 +1,4 @@
-// Type Assertion, Type Unknown and Type Never in Typescript
+// Type Assertion, Type Unknown and Type Never in Typescript | 09
 
 let response: any = '42';
 

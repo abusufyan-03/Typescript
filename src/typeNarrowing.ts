@@ -1,4 +1,4 @@
-// Type narrowing & type guard
+// Type narrowing & type guard | 10
 
 function getChai(kind: string | number) {
     if(typeof kind === 'string'){

@@ -1,3 +1,4 @@
+// Understanding unio and any | 11
 let sub: number | string = '1M';
 
 let apiRequestStatus: 'pending' | 'success' | 'error' = 'pending';

@@ -1,4 +1,4 @@
-// Types and Interface
+// Types and Interface | 08
 
 function makeChai(order: {type: string; sugar: number; storng: boolean}){
     console.log(order)
